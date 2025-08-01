@@ -8,7 +8,7 @@ Visually explore and compare different sorting algorithms.
 
 ---
 
-## check it here: [link](https://ds-fall2025.github.io/sorting_algo/)
+## check it here: [https://ds-fall2025.github.io/sorting_algo/](https://ds-fall2025.github.io/sorting_algo/)
 
 ---
 
