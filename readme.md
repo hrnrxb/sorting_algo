@@ -98,4 +98,4 @@ No complex setup or server is required!
 
 Your contributions are highly welcome! 😁 Feel free to open an issue or submit a pull request.
 
-Made by [Hamid Namjoo 😊](https://hamidnamjoo.com/)
+Made by [Hamid Namjoo](https://hamidnamjoo.com/)😊
